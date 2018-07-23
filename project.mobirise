@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "smartfuture.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -393,7 +393,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#514b49",
-            "bgText": "Sanayide Dönüşüm",
+            "bgText": "Girişimcilik",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": 250,
