@@ -332,7 +332,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x7200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x7202.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -342,7 +342,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -351,7 +351,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/embed/9Ns08AofRko",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
