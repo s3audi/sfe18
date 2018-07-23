@@ -978,14 +978,19 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-s"
+          "_anchor": "msg-box5-s",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
             "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -993,7 +998,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1027,7 +1032,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-t"
+          "_anchor": "msg-box5-t",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -1076,7 +1086,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-u"
+          "_anchor": "msg-box5-u",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
