@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#514b49"
+        "#514b49",
+        "#5e5546"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -256,7 +257,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -264,7 +265,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#3d3d3d",
-            "bgText": "Animated text background",
+            "bgText": "Sanayide Dönüşüm",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": 250,
@@ -276,8 +277,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "ANIMATED TEXT BACKGROUND",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "title": "Sanayide Dönüşüm",
+          "text": "Robot teknolojileri, Sanayide dönüşüm",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -298,20 +299,6 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "AKINSOFT ROBOT TEKNOLOJİLERİ",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Endüstri 4.0, Akıllı robotlar<br>Konya",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://youtu.be/9Ns08AofRko\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE VIDEO</a>  "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/akn-robotics-3-1280x720.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
