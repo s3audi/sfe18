@@ -305,9 +305,9 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "AKINSOFT ROBOT TEKNOLOJİLERİ",
+                "title": "AKINSOFT ROBOTICS",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "Endüstri 4.0, Akıllı robotlar<br>Konya",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://youtu.be/9Ns08AofRko\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE VIDEO</a>  "
               }
@@ -325,24 +325,24 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
+            "showText": true,
+            "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "imageSize": "49",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x7200.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -362,14 +362,22 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH YOUTUBE VIDEO",
+          "title": "Akınsoft <br>Robotics",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-7"
+          "_anchor": "msg-box4-7",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
