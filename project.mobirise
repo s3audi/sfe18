@@ -202,8 +202,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
@@ -221,8 +221,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "Sanayinin Dönüşüm",
-          "text": "Robot teknolojileri, Sanayide dönüşüm",
+          "title": "Sanayinin Dönüşümü",
+          "text": "Robot teknolojileri, Sanayide dönüşüm, Nesnelerin interneti",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -273,7 +273,7 @@
             }
           },
           "title": "Akınsoft&nbsp;<br>Robotics",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>Akınrobotics, Türkiye’nin ilk robot fabrikasını kurup tamamı yerli olan robotların seri üretimine başladı.</p>",
           "_tags": [
             "Theme"
           ],
@@ -294,8 +294,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
@@ -314,7 +314,7 @@
             "overlayOpacity": 0.1
           },
           "title": "Akıllı Şehir ve Yapı",
-          "text": "IOT, Nesnelerin İnterneti, Akıllı şehirler",
+          "text": "Akıllı şehirlerin Türkiye’nin büyümesine olan katkısı",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -386,8 +386,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
@@ -477,8 +477,8 @@
           "_params": {
             "showTitle": true,
             "countdown": "2018/10/11",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
@@ -492,7 +492,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "Kalan İş Günü",
+          "title": "Etkinliğe Kalan İş Günü",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
