@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "akillisehir.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -143,7 +143,7 @@
             "inverse": false,
             "showArrow": true,
             "showFormTitle": true,
-            "countdown": "2018/11/08",
+            "countdown": "2018/11/14",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/askonetkinlik-2000x834.jpg",
             "parallax": true,
@@ -476,7 +476,7 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2018/10/20",
+            "countdown": "2018/10/11",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
