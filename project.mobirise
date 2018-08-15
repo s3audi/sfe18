@@ -334,7 +334,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ekinpatrol-1441x603.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -365,7 +365,7 @@
             }
           },
           "title": "Ekin Patrol<br><span style=\"font-weight: normal;\">Abu Dhabi Safe City</span>",
-          "text": "<p>Türkiye'nin markası Ekin, dünya çapında projelere imza atmaya devam ediyor. İhracat şampiyonu firma akıllı şehirler alanında sektörde standart belirleyici konumda.<br>VIDEO ARSIV</p>",
+          "text": "<p>Türkiye'nin markası Ekin, dünya çapında projelere imza atmaya devam ediyor. İhracat şampiyonu firma akıllı şehirler alanında sektörde standart belirleyici konumda.<br><a href=\"http://sfe18.askon.org.tr/video\">VIDEO ARSIV</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -426,7 +426,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hande-1429x721.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
