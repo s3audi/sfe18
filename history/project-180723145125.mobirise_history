@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "index.html",
+    "currentPage": "girisimcilik.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -36,10 +36,8 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "publishType": "github",
-    "publishPath": "file:///C:/Users/MASTER/Documents/GitHub/sfe18",
-    "gitHubName": "s3audi",
-    "gitHubPath": "sfe18"
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/MASTER/Documents/GitHub/sfe18"
   },
   "pages": {
     "index.html": {
@@ -114,7 +112,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -147,7 +145,7 @@
             "inverse": false,
             "showArrow": true,
             "showFormTitle": true,
-            "countdown": "2018/11/14",
+            "countdown": "2018/11/08",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/askonetkinlik-2000x834.jpg",
             "parallax": true,
@@ -480,7 +478,7 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2018/10/11",
+            "countdown": "2018/10/20",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -605,7 +603,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -874,7 +872,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1195,7 +1193,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1516,7 +1514,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
