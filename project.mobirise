@@ -159,7 +159,7 @@
           },
           "title": "SMART FUTURE 2018",
           "title2": "KAYIT OLUN",
-          "text": "ASKONv",
+          "text": "ASKON",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GÖNDER</a>",
           "form": {
@@ -221,7 +221,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "Sanayide Dönüşüm",
+          "title": "Sanayinin Dönüşüm",
           "text": "Robot teknolojileri, Sanayide dönüşüm",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
@@ -272,7 +272,7 @@
               "size": 250
             }
           },
-          "title": "Akınsoft1&nbsp;<br>Robotics",
+          "title": "Akınsoft&nbsp;<br>Robotics",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
@@ -301,7 +301,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#3d3d3d",
-            "bgText": "Akıllı Şehirler",
+            "bgText": "Akıllı Şehir ve Yapı",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": 250,
@@ -313,7 +313,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "Akıllı Şehirler",
+          "title": "Akıllı Şehir ve Yapı",
           "text": "IOT, Nesnelerin İnterneti, Akıllı şehirler",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
@@ -353,7 +353,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/9Ns08AofRko",
+              "src": "https://www.youtube.com/embed/rvcEdMG06jw",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -364,8 +364,8 @@
               "size": 250
             }
           },
-          "title": "Akınsoft2&nbsp;<br>Robotics",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Ekin Patrol<br><span style=\"font-weight: normal;\">Abu Dhabi Safe City</span>",
+          "text": "<p>Türkiye'nin markası Ekin, dünya çapında projelere imza atmaya devam ediyor. İhracat şampiyonu firma akıllı şehirler alanında sektörde standart belirleyici konumda.<br>VIDEO ARSIV</p>",
           "_tags": [
             "Theme"
           ],
@@ -406,7 +406,7 @@
             "overlayOpacity": 0.1
           },
           "title": "Girişimcilik",
-          "text": "Dijital dünyada inovasyon, Girişimcilik hikayeleri",
+          "text": "Dijital dünyada inovasyon, Girişimcilik ekosistemi",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -445,7 +445,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/9Ns08AofRko",
+              "src": "https://www.youtube.com/embed/XF7J92YcJZk",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -456,8 +456,8 @@
               "size": 250
             }
           },
-          "title": "Akınsoft3&nbsp;<br>Robotics",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Hande Enes&nbsp;",
+          "text": "<p>Türkiye'deki en önemli melek yatırımcılardan olan Hande Enes, girişimcilik ve melek yatırımcılıkla ilgili görüş ve tecrübelerini aktarıyor.</p>",
           "_tags": [
             "Theme"
           ],
@@ -519,8 +519,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +9 (0) 000 000 0000<br>\nFax: +9 (0) 000 000 0000",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpor.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
+          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +90 (212) 256 63 58",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpo.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -791,8 +791,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +9 (0) 000 000 0000<br>\nFax: +9 (0) 000 000 0000",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpor.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
+          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +90 (212) 256 63 58",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpo.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1112,8 +1112,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +9 (0) 000 000 0000<br>\nFax: +9 (0) 000 000 0000",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpor.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
+          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +90 (212) 256 63 58",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpo.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1433,8 +1433,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +9 (0) 000 000 0000<br>\nFax: +9 (0) 000 000 0000",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpor.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
+          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +90 (212) 256 63 58",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpo.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1754,8 +1754,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +9 (0) 000 000 0000<br>\nFax: +9 (0) 000 000 0000",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpor.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
+          "text1": "<strong>Adres:</strong><br>İstanbul Kongre Merkezi<br><br><br>\n<strong>İletişim</strong><br>\nEmail: info@smartfutureexpo.com<br>\nPhone: +90 (212) 256 63 58",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://smartfutureexpo.com\" target=\"_blank\">Smart Future Expo 2018</a></li><li><a class=\"text-white\" href=\"http://www.iccistanbul.com/tr/\" target=\"_blank\">İstanbul Kongre Merkezi</a></li><li><a class=\"text-white\" href=\"http://askon.org.tr\" target=\"_blank\">Askon</a></li></ul>",
           "_tags": [
             "Theme"
           ],
