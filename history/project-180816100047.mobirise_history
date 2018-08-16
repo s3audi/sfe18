@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "index.html",
+    "currentPage": "videogirisim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -37,7 +37,11 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/MASTER/Documents/GitHub/sfe18",
+    "gitHubName": "s3audi",
+    "gitHubPath": "sfe18"
   },
   "pages": {
     "index.html": {
@@ -244,7 +248,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/ak%C4%B1n-robotics-4-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -611,7 +615,7 @@
             "showFormTitle": true,
             "countdown": "2018/11/14",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture-back-1303x916.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture_back-1303x916.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -935,7 +939,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-1-1400x932.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(1)-1400x932.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -992,7 +996,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-2-1400x1066.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(2)-1400x1066.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1049,7 +1053,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-3-1400x1001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(3)-1400x1001.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1653,7 +1657,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-2-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(2)-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1710,7 +1714,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-4-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(4)-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1767,7 +1771,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(1)-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1970,7 +1974,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/ak%C4%B1n-robotics-4-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2363,7 +2367,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akilli-basaksehir-1634x822.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/akilli_basaksehir-1634x822.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2421,7 +2425,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akilli-mersin-1625x684.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/akilli_mersin-1625x684.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2610,7 +2614,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/erdentimur-girisim-1619x593.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/erdentimur%20girisim-1619x593.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",

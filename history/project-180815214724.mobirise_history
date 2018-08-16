@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "index.html",
+    "currentPage": "videogirisim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -23,9 +23,7 @@
       "additionalSetColors": [
         "#514b49",
         "#5e5546",
-        "#3d3d3d",
-        "#3b5879",
-        "#283c53"
+        "#3d3d3d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -37,7 +35,11 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/MASTER/Documents/GitHub/sfe18",
+    "gitHubName": "s3audi",
+    "gitHubPath": "sfe18"
   },
   "pages": {
     "index.html": {
@@ -77,13 +79,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -106,13 +108,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -205,13 +207,13 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
-            "bgText": " ",
+            "bgColor": "#514b49",
+            "bgText": "Sanayide Dönüşüm",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": 250,
@@ -244,7 +246,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/ak%C4%B1n-robotics-4-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -254,7 +256,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -297,13 +299,13 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
-            "bgText": " ",
+            "bgColor": "#3d3d3d",
+            "bgText": "Akıllı Şehir ve Yapı",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": 250,
@@ -346,7 +348,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -389,13 +391,13 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
-            "bgText": " ",
+            "bgColor": "#514b49",
+            "bgText": "Girişimcilik",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#5e5546",
             "bgTextSize": 250,
@@ -438,7 +440,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -477,13 +479,40 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "countdown": "2018/10/11",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Etkinliğe Kalan İş Günü",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown2",
+          "_anchor": "extCountdown2-3"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -541,13 +570,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -570,13 +599,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -611,7 +640,7 @@
             "showFormTitle": true,
             "countdown": "2018/11/14",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture-back-1303x916.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture_back-1303x916.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -621,7 +650,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.7"
           },
           "title": "SMART FUTURE 2018",
           "title2": "KAYIT OLUN",
@@ -685,10 +714,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.7"
           },
           "title": "Dönüşerek Daha Güçlüyüz",
-          "caption": "<p>Türkiye son on beş yılda birçok alanda elde ettiği başarılar ve gelişimler ile hem bölgesinde hem de dünyada adından sıkça söz ettiriyor. Özellikle gelişen sanayi ve iş dünyası ile global yatırımcıların ilgisini çekerken kendi içinde çıkan yerel markalarla da global ekonomide söz sahibi olabilmenin yollarını arıyor. Ayrıca büyüyen ekonomisine ve artan gelir seviyesine paralel olarak gelişen şehirler ve mega altyapı projeleriyle bölgenin gözde ülkesi konumunda.\n</p><p>Bu başarı hikayesinin devamı sanayide, şehirlerde, yapılarda ve hayatın birçok alanında dijital dönüşümü yakalayarak daha rakabetçi, akıllı bir gelecek ile mümkün olabilir. İşte bu noktada ilgili kamu kurumları yetkilileri, sanayiciler, iş dünyası temsilcileri, yerel yöneticiler, inşaat sektörü temsilcileri ve dijital dönüşüm çözümleri sunan şirketleri bir araya getirecek olan Smart Future Expo Akıllı Teknolojiler Zirve ve Sergisi Eylül ayında İstanbul Kongre ve Fuar Merkezi’nde düzenlenecek.\n</p><p>Smart Future Expo Akıllı Teknolojiler Zirve ve Sergisi geleceğin teknoloji üreticileri ve hizmet sağlayıcılarının Türkiye’deki sanayici, iş dünyası temsilcileri ve yerel yöneticileriyle buluşması için planlanan en kapsamlı organizasyon olma özelliğini taşıyor. ASKON tarafından organize edilecek olan zirve ve sergi iki gün boyunca 10.000 üzerinde ilgili profesyonel ziyaretçi, 150 konuşmacı ve 100 üzerinde fuar katılımcısı beklenmektedir.\n</p><p><br></p>",
+          "caption": "<p>Türkiye son on beş yılda birçok alanda elde ettiği başarılar ve gelişimler ile hem bölgesinde hem de dünyada adından sıkça söz ettiriyor. Özellikle gelişen sanayi ve iş dünyası ile global yatırımcıların ilgisini çekerken kendi içinde çıkan yerel markalarla da global ekonomide söz sahibi olabilmenin yollarını arıyor. Ayrıca büyüyen ekonomisine ve artan gelir seviyesine paralel olarak gelişen şehirler ve mega altyapı projeleriyle bölgenin gözde ülkesi konumunda.\r</p><p>Bu başarı hikayesinin devamı sanayide, şehirlerde, yapılarda ve hayatın birçok alanında dijital dönüşümü yakalayarak daha rakabetçi, akıllı bir gelecek ile mümkün olabilir. İşte bu noktada ilgili kamu kurumları yetkilileri, sanayiciler, iş dünyası temsilcileri, yerel yöneticiler, inşaat sektörü temsilcileri ve dijital dönüşüm çözümleri sunan şirketleri bir araya getirecek olan Smart Future Expo Akıllı Teknolojiler Zirve ve Sergisi Eylül ayında İstanbul Kongre ve Fuar Merkezi’nde düzenlenecek.\r</p><p>Smart Future Expo Akıllı Teknolojiler Zirve ve Sergisi geleceğin teknoloji üreticileri ve hizmet sağlayıcılarının Türkiye’deki sanayici, iş dünyası temsilcileri ve yerel yöneticileriyle buluşması için planlanan en kapsamlı organizasyon olma özelliğini taşıyor. ASKON tarafından organize edilecek olan zirve ve sergi iki gün boyunca 10.000 üzerinde ilgili profesyonel ziyaretçi, 150 konuşmacı ve 100 üzerinde fuar katılımcısı beklenmektedir.\r</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -739,7 +768,7 @@
             }
           },
           "title": "BAŞKANDAN",
-          "text": "Ülkelerin büyümesi ve kalkınması için tek çıkış noktası yüksek teknoloji üretiminden geçiyor. Küresel rekabet bugün ve gelecekte bilgiyi ve bilimi üretenlerin arasında gerçekleşecek. Hemen tüm sektörlerin teknoloji ve dijitalleşme ile dönüşümünü gerçekleştirebilmesinin yanında bilim ve teknoloji üretiminin temel motivasyon noktası olması zorunlu hale geldi. Teknolojiyi yalnızca kullanan değil üreten ve ileri düzeye taşıyan ülkeler geleceği kurabilir. Milli değerlere bağlı yapımız ve yerli olmayı önemseyen misyonumuz ile ülkemizin dijital ve akıllı yeni dünya düzeninde söz sahibi olabilmesi için bilim ve teknoloji üretiminde yepyeni bir vizyon oluşturma amacıyla yola çıktık. Bu alanda topyekun bir seferberlik başlatmanın zamanının geldiğine, konumundan dolayı pek çok noktada dünyanın çeşitli uçlarını biraraya getiren Türkiye’nin bilim ve teknoloji üretiminde de söz sahibi olması gerektiğine inanıyoruz.<br> \n<br>İşte bu motivasyon ile ülkemizde ve bölgemizdeki coğrafyada bilim ve teknoloji kullanımını yaygınlaştırmak, yerli teknoloji üretiminin ülkenin geneline yayılması tüm sektörlerin önceliği haline getirilmelidir. Bu konuda farkındalık ve bilinirlik sağlayacak ortamı oluşturmak, teknoloji tüketen değil teknoloji üreten nesiller yetiştirmeye katkı sağlamak süreci destekleyecek diğer adımlardır. Türkiye ekonomisinin dijitalleşme dalgasını yakalayarak yüksek katma değerli teknoloji üreten dijital bir ekonomiye dönüşmesi için çözüm platformu oluşturmak amacıyla SMART FUTURE EXPO Zirve ve Sergisinin ikincisini İstanbul Kongre Merkezinde 14-15 Kasım 2018 tarihlerinde düzenliyoruz. Tüm dostlarımızı “Türkiye’nin teknoloji ve dijital dönüşüm etkinliğinde ben de varım!” demeye davet ediyoruz.&nbsp;<br><br>Hasan Ali CESUR<br>ASKON Genel Başkanı",
+          "text": "Ülkelerin büyümesi ve kalkınması için tek çıkış noktası yüksek teknoloji üretiminden geçiyor. Küresel rekabet bugün ve gelecekte bilgiyi ve bilimi üretenlerin arasında gerçekleşecek. Hemen tüm sektörlerin teknoloji ve dijitalleşme ile dönüşümünü gerçekleştirebilmesinin yanında bilim ve teknoloji üretiminin temel motivasyon noktası olması zorunlu hale geldi. Teknolojiyi yalnızca kullanan değil üreten ve ileri düzeye taşıyan ülkeler geleceği kurabilir. Milli değerlere bağlı yapımız ve yerli olmayı önemseyen misyonumuz ile ülkemizin dijital ve akıllı yeni dünya düzeninde söz sahibi olabilmesi için bilim ve teknoloji üretiminde yepyeni bir vizyon oluşturma amacıyla yola çıktık. Bu alanda topyekun bir seferberlik başlatmanın zamanının geldiğine, konumundan dolayı pek çok noktada dünyanın çeşitli uçlarını biraraya getiren Türkiye’nin bilim ve teknoloji üretiminde de söz sahibi olması gerektiğine inanıyoruz.<br> \n<br>İşte bu motivasyon ile ülkemizde ve bölgemizdeki coğrafyada bilim ve teknoloji kullanımını yaygınlaştırmak, yerli teknoloji üretiminin ülkenin geneline yayılması tüm sektörlerin önceliği haline getirilmelidir. Bu konuda farkındalık ve bilinirlik sağlayacak ortamı oluşturmak, teknoloji tüketen değil teknoloji üreten nesiller yetiştirmeye katkı sağlamak süreci destekleyecek diğer adımlardır. Türkiye ekonomisinin dijitalleşme dalgasını yakalayarak yüksek katma değerli teknoloji üreten dijital bir ekonomiye dönüşmesi için çözüm platformu oluşturmak amacıyla SMART FUTURE EXPO Zirve ve Sergisinin ikincisini İstanbul Kongre Merkezinde 12-13 Eylül 2018 tarihlerinde düzenliyoruz. Tüm dostlarımızı “Türkiye’nin teknoloji ve dijital dönüşüm etkinliğinde ben de varım!” demeye davet ediyoruz.&nbsp;<br><br>Hasan Ali CESUR<br>ASKON Genel Başkanı",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -755,7 +784,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -810,13 +839,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -839,13 +868,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -893,7 +922,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.4"
           },
           "title": "SANAYİDE DÖNÜŞÜM",
           "text": "Akıllı teknolojiler ve dijitalleşme çağı <br>üretim ve sanayinin de dönüşümünü zorunlu kılıyor.&nbsp;",
@@ -935,7 +964,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-1-1400x932.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(1)-1400x932.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -992,7 +1021,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-2-1400x1066.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(2)-1400x1066.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1049,7 +1078,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-3-1400x1001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(3)-1400x1001.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1088,7 +1117,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1143,13 +1172,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1172,13 +1201,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1473,7 +1502,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1528,13 +1557,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1557,13 +1586,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1653,7 +1682,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-2-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(2)-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1710,7 +1739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-4-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(4)-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1767,7 +1796,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(1)-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1806,7 +1835,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1848,10 +1877,10 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "bgText": "Sanayinin Dönüşümü",
+            "bgColor": "#514b49",
+            "bgText": "Sanayide Dönüşüm",
             "bgTextStyle": "Montserrat",
-            "bgTextColor": "#283c53",
+            "bgTextColor": "#5e5546",
             "bgTextSize": 250,
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1898,13 +1927,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1927,13 +1956,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1970,7 +1999,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/ak%C4%B1n-robotics-4-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1979,8 +2008,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2023,7 +2052,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "49",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2037,7 +2066,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#a38f84",
             "overlayOpacity": "0.6"
           },
           "media": {
@@ -2096,7 +2125,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2141,7 +2170,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2183,10 +2212,10 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "bgText": "Akıllı Şehir ve Yapı",
+            "bgColor": "#514b49",
+            "bgText": "Akıllı şehir ve Yapı",
             "bgTextStyle": "Montserrat",
-            "bgTextColor": "#283c53",
+            "bgTextColor": "#5e5546",
             "bgTextSize": 250,
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2233,13 +2262,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2262,13 +2291,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -2314,8 +2343,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2358,12 +2387,12 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "49",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akilli-basaksehir-1634x822.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/akilli_basaksehir-1634x822.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2372,8 +2401,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#a38f84",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2421,7 +2450,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akilli-mersin-1625x684.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/akilli_mersin-1625x684.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2431,7 +2460,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -2474,7 +2503,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "49",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2488,8 +2517,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2534,7 +2563,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2576,10 +2605,10 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#28324e",
+            "bgColor": "#514b49",
             "bgText": "Girişimcilik",
             "bgTextStyle": "Montserrat",
-            "bgTextColor": "#283c53",
+            "bgTextColor": "#5e5546",
             "bgTextSize": 250,
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2610,7 +2639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/erdentimur-girisim-1619x593.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/erdentimur%20girisim-1619x593.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2620,7 +2649,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -2684,13 +2713,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#172331"
+              "background": "#363231"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#233549!important"
+              "background": "#494442!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#283c53"
+              "background": "#514b49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2713,13 +2742,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#283c53",
+            "bgColor": "#514b49",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"smartfuture.html\">ETKİNLİK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"smartfuture.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VİDEOLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosanayi.html\">SANAYİNİN DÖNÜŞÜMÜ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videosehir.html\" aria-expanded=\"false\">AKILLI ŞEHİR VE YAPI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"videogirisim.html\" aria-expanded=\"false\">GİRİŞİMCİLİK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BAŞLIKLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sanayi.html\">Sanayide Dönüşüm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"akillisehir.html\">Akıllı Şehirler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"girisimcilik.html\">Girişimcilik</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -2751,7 +2780,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "49",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2765,8 +2794,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2787,7 +2816,7 @@
             }
           },
           "title": "Aykut Karaalioğlu<br><span style=\"font-weight: normal;\">Silikon Vadisi</span>",
-          "text": "<p>0'dan 100 Milyon Dolara.<br><span style=\"font-size: 1.07rem;\">Girişimcilik üzerine samimi bir söyleşi.</span></p>",
+          "text": "<p>0'dan 100 Milyon Dolara. Girişimcilik üzerine samimi bir söyleşi.<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2823,7 +2852,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#475577",
             "overlayOpacity": "0.8"
           },
           "media": {
@@ -2882,7 +2911,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -2953,7 +2982,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#283c53",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
