@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "eihracat18.html",
+    "currentPage": "sfe18.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -31,13 +31,17 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 83,
+    "uniqCompNum": 82,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///D:/Yedekler/Odrive/Box(s3audi)/00_Gunluk%202018/1-Semtasoft/GitHub/sfe18",
+    "gitHubName": "s3audi",
+    "gitHubPath": "sfe18"
   },
   "pages": {
     "index.html": {
@@ -244,7 +248,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/ak%C4%B1n-robotics-4-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -611,7 +615,7 @@
             "showFormTitle": true,
             "countdown": "2018/11/14",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture-back-1303x916.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture_back-1303x916.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -935,7 +939,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-1-1400x932.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(1)-1400x932.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -992,7 +996,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-2-1400x1066.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(2)-1400x1066.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1049,7 +1053,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sanayide-3-1400x1001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanayide%20(3)-1400x1001.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1653,7 +1657,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-2-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(2)-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1710,7 +1714,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-4-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(4)-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1767,7 +1771,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akilli-1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akilli%20(1)-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1970,7 +1974,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akn-robotics-4-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@assets/images/ak%C4%B1n-robotics-4-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2363,7 +2367,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akilli-basaksehir-1634x822.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/akilli_basaksehir-1634x822.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2421,7 +2425,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/akilli-mersin-1625x684.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/akilli_mersin-1625x684.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2610,7 +2614,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/erdentimur-girisim-1619x593.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/erdentimur%20girisim-1619x593.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2977,7 +2981,7 @@
     "eihracat18.html": {
       "settings": {
         "title": "E-ihracat 2018",
-        "meta_descr": "E-ihracat 2018",
+        "meta_descr": "E-ihracat",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3074,36 +3078,148 @@
         },
         {
           "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/eihracat2-2000x834.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "E-ihracat '18",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<p>Avrupa'nın en büyük e-ihracat konferansı gerçekleşti. &nbsp;&nbsp;</p>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
+            "showArrow": true,
+            "showFormTitle": true,
+            "countdown": "2018/11/14",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture_back-1303x916.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
           },
-          "articleLayout": false,
+          "title": "SMART FUTURE 2018",
+          "title2": "KAYIT OLUN",
+          "text": "AKILLI TEKNOLOJİLER ZİRVE VE SERGİSİ<br>TÜRKİYE'NİN DİJİTAL DÖNÜŞÜMÜ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GÖNDER</a>",
+          "form": {
+            "action": "semta@semta.com.tr",
+            "alerts": {
+              "success": "Teşekkürler!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Ad Soyad*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefon*"
+              },
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader13",
+          "_anchor": "extHeader13-25"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/smartfuture3-994x658.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Dönüşerek Daha Güçlüyüz",
+          "caption": "<p>Türkiye son on beş yılda birçok alanda elde ettiği başarılar ve gelişimler ile hem bölgesinde hem de dünyada adından sıkça söz ettiriyor. Özellikle gelişen sanayi ve iş dünyası ile global yatırımcıların ilgisini çekerken kendi içinde çıkan yerel markalarla da global ekonomide söz sahibi olabilmenin yollarını arıyor. Ayrıca büyüyen ekonomisine ve artan gelir seviyesine paralel olarak gelişen şehirler ve mega altyapı projeleriyle bölgenin gözde ülkesi konumunda.\n</p><p>Bu başarı hikayesinin devamı sanayide, şehirlerde, yapılarda ve hayatın birçok alanında dijital dönüşümü yakalayarak daha rakabetçi, akıllı bir gelecek ile mümkün olabilir. İşte bu noktada ilgili kamu kurumları yetkilileri, sanayiciler, iş dünyası temsilcileri, yerel yöneticiler, inşaat sektörü temsilcileri ve dijital dönüşüm çözümleri sunan şirketleri bir araya getirecek olan Smart Future Expo Akıllı Teknolojiler Zirve ve Sergisi Eylül ayında İstanbul Kongre ve Fuar Merkezi’nde düzenlenecek.\n</p><p>Smart Future Expo Akıllı Teknolojiler Zirve ve Sergisi geleceğin teknoloji üreticileri ve hizmet sağlayıcılarının Türkiye’deki sanayici, iş dünyası temsilcileri ve yerel yöneticileriyle buluşması için planlanan en kapsamlı organizasyon olma özelliğini taşıyor. ASKON tarafından organize edilecek olan zirve ve sergi iki gün boyunca 10.000 üzerinde ilgili profesyonel ziyaretçi, 150 konuşmacı ve 100 üzerinde fuar katılımcısı beklenmektedir.\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_anchor": "slider-2a"
+          "_name": "content5",
+          "_anchor": "content5-26"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hac-466x635.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BAŞKANDAN",
+          "text": "Ülkelerin büyümesi ve kalkınması için tek çıkış noktası yüksek teknoloji üretiminden geçiyor. Küresel rekabet bugün ve gelecekte bilgiyi ve bilimi üretenlerin arasında gerçekleşecek. Hemen tüm sektörlerin teknoloji ve dijitalleşme ile dönüşümünü gerçekleştirebilmesinin yanında bilim ve teknoloji üretiminin temel motivasyon noktası olması zorunlu hale geldi. Teknolojiyi yalnızca kullanan değil üreten ve ileri düzeye taşıyan ülkeler geleceği kurabilir. Milli değerlere bağlı yapımız ve yerli olmayı önemseyen misyonumuz ile ülkemizin dijital ve akıllı yeni dünya düzeninde söz sahibi olabilmesi için bilim ve teknoloji üretiminde yepyeni bir vizyon oluşturma amacıyla yola çıktık. Bu alanda topyekun bir seferberlik başlatmanın zamanının geldiğine, konumundan dolayı pek çok noktada dünyanın çeşitli uçlarını biraraya getiren Türkiye’nin bilim ve teknoloji üretiminde de söz sahibi olması gerektiğine inanıyoruz.<br> \n<br>İşte bu motivasyon ile ülkemizde ve bölgemizdeki coğrafyada bilim ve teknoloji kullanımını yaygınlaştırmak, yerli teknoloji üretiminin ülkenin geneline yayılması tüm sektörlerin önceliği haline getirilmelidir. Bu konuda farkındalık ve bilinirlik sağlayacak ortamı oluşturmak, teknoloji tüketen değil teknoloji üreten nesiller yetiştirmeye katkı sağlamak süreci destekleyecek diğer adımlardır. Türkiye ekonomisinin dijitalleşme dalgasını yakalayarak yüksek katma değerli teknoloji üreten dijital bir ekonomiye dönüşmesi için çözüm platformu oluşturmak amacıyla SMART FUTURE EXPO Zirve ve Sergisinin ikincisini İstanbul Kongre Merkezinde 14-15 Kasım 2018 tarihlerinde düzenliyoruz. Tüm dostlarımızı “Türkiye’nin teknoloji ve dijital dönüşüm etkinliğinde ben de varım!” demeye davet ediyoruz.&nbsp;<br><br>Hasan Ali CESUR<br>ASKON Genel Başkanı",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-27"
         },
         {
           "_params": {
@@ -3243,8 +3359,8 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/itu1-1200x755.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/itu%5B1%5D-1200x755.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3259,7 +3375,7 @@
                 "overlayColor": "#000000"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/marmara1-1200x755.jpg",
+                "image": "@PROJECT_PATH@/assets/images/marmara%5B1%5D-1200x755.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -3273,96 +3389,18 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ziyaret1-1200x755.jpg",
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "GYODER",
+                "title": "IMAGE SLIDE",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "GYODER Başkanı Doç.Dr. Feyzullah Yetgin ve ekibi",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/universite1-1200x755.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Yıldız Teknik Üniversitesi Rektörü Sn.Bahri Şahin",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Yıldız Teknopark",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/iskurziyaret1-1600x1033.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<p>İŞKUR Genel Müdür Yardımcısı<br>Sn.Kadri Kabak</p>",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "İŞKUR",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ito-nihat-alayoglu1-1024x661.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<p>İTO Genel Sekreteri Doç. Dr. Nihat Alayoğlu</p>",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "İTO",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/teknokentziyaret1-1356x876.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Teknopark İstanbul Genel Müdürü Sayın Bilal Macit",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Teknopark İstanbul",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ziraatkatilim-1-1024x768.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Ziraat Katılım Gn.Müdürü <br>Sn. Metin Özdemir",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Ziraat Katılım",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#000000"
               }
             ]
           },
