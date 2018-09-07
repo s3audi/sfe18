@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "smartfuture.html",
+    "currentPage": "eihracat18.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3247,22 +3247,6 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/ikramgoktasvakif-1024x768.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Vakıf Katılım Gn.Müdürü <br>Sn. İkram Göktaş",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Vakıf Katılım Bankası",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#000000"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/itu%5B1%5D-1200x755.jpg",
                 "active": false,
                 "showButtons": false,
@@ -3370,7 +3354,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ziraatkatilim-1-1024x768.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
