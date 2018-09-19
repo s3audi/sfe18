@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Smart Future 2018",
-    "currentPage": "medyasmartfuture.html",
+    "currentPage": "medya.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3720,7 +3720,7 @@
         }
       ]
     },
-    "medyasmartfuture.html": {
+    "medya.html": {
       "settings": {
         "title": "Medyada Smart Future",
         "meta_descr": "E-ihracat 2018",
@@ -3871,7 +3871,7 @@
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 3,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
             "parallax": true,
@@ -3895,9 +3895,9 @@
           "title3": "Smart Future Expo 14-15 Kasım'da Düzenlenecek.",
           "subtitle3": "16.08.2018",
           "caption3": "\"Dönüşerek Daha Güçlüyüz\" sloganıyla düzenlenecek organizasyonda yerel yönetimler, üniversiteler ve sektör lideri firmaları yerini alacak.\n<br>\n<br>Etkinlikte, Sanayinin Dönüşümü, Akıllı Şehir ve Yapı ile Girişimcilik temaları eş zamanlı olarak işlenerek bilişim, yazılım, otomasyon, elektronik ve şehircilik başta olmak üzere gelişen IoT, yapay zeka, bulut bilişim ve büyük veri gibi geleceğin dünyasını şekillendiren akıllı teknolojilere değinilecek.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "Test",
+          "subtitle4": "Test",
+          "caption4": "Test",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
